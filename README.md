@@ -1,2 +1,2 @@
 # CarStatusDatabase
-store running status of mutiple cars, and select data from it
+store running status of mutiple cars using sqlite3, and select data from it
